@@ -1,7 +1,5 @@
 Homework Week 5 - Day Planner
 
-Homework Week 4 - Quiz Game
-
 Description:
 
 This is a work day planner that changes availability to add to-do's by time of day. 
