@@ -22,5 +22,5 @@ https://campbelllm.github.io/dayPlanner/Develop/
 
 Preview of site:
 
-![day planner](./assets/projectScreenShot.png)
+![day planner](./Assets/projectScreenShot.png)
 
