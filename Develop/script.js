@@ -14,7 +14,7 @@ $(document).ready(function(){
         const $hourRow = $('<div>').addClass('row')
         $timeBlock.append($hourRow)
         const $hourDiv = $('<div>').text(value).addClass('hour') 
-        const $todoText = $('<textArea>').attr('cols', '110').attr('rows', '2').attr('value', value)
+        const $todoText = $('<textArea>').addClass('.textarea').attr('value', value)
         const $btnIcon = $('<i>').addClass('fa fa-save')
         const $submitButton = $('<button>').addClass('saveBtn').append($btnIcon)
         //appending created elements to parent container
